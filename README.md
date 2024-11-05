@@ -44,6 +44,8 @@ This project specification outlines the requirements for a functional, dynamic r
 
 ## Technical Stack Data Flow Diagram
 
+https://lucid.app/lucidchart/bf0d029d-9327-4955-888e-a4019faebb12/edit?invitationId=inv_a44ad55f-069a-4920-ad0c-3601b1b7a64b&page=0_0#
+
 ![Image](https://github.com/user-attachments/assets/45f85d0f-9c49-4bff-bac5-10f03cd29892)
 
 ## Our RoadMap Backlog
