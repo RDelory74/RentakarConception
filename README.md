@@ -50,6 +50,13 @@ https://lucid.app/lucidchart/bf0d029d-9327-4955-888e-a4019faebb12/edit?invitatio
 
 ## Our RoadMap Backlog
 
+![image](https://github.com/user-attachments/assets/7efca6cd-8147-474e-bba7-bf1a50516d33)
+
+![image](https://github.com/user-attachments/assets/12210067-7dbc-4703-a10c-58032e3580bc)
+
+![image](https://github.com/user-attachments/assets/3799b30d-6bfa-4d05-8e8e-3cd18c87328c)
+
+
 https://github.com/users/RDelory74/projects/2/views/3?layout=roadmap
 
 ## MCD and MLD data modeling
