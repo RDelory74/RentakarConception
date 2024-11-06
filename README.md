@@ -5,8 +5,6 @@ Conception Rentakar
 # Rentakar
 
 
-# Ici bientôt les versions pour harmoniser
-
 The Rentakar project is a Java and Spring Boot-based platform for booking rental vehicles, using a microservices architecture and technologies such as Maven and JPA Repository. Developed for a car rental company, this platform allows clients to reserve a variety of vehicles, from cars to two-wheelers and utility vehicles, each with specific rental conditions.
 
 ![Image](https://github.com/user-attachments/assets/95827894-3138-4350-be6e-eb951118e641)
